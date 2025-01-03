@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353654264629",
+    "project_id": "amd-2752---lionwithcrovvn",
+    "storage_bucket": "amd-2752---lionwithcrovvn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353654264629:android:14d869f7d209e34842327c",
+        "android_client_info": {
+          "package_name": "com.lioncrovvn.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCcdmTRekqwCbf1n56QDgZyyptX17tjl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
